@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2CC6B3E6-C0D2-51AB-BE0B-098B15038BB9}") = "borders", "Assembly-CSharp.csproj", "{A631F106-169D-9110-E7FB-D36E0CCF30F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A631F106-169D-9110-E7FB-D36E0CCF30F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A631F106-169D-9110-E7FB-D36E0CCF30F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A631F106-169D-9110-E7FB-D36E0CCF30F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A631F106-169D-9110-E7FB-D36E0CCF30F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
